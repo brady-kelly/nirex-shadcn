@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "nirex-tech-dev"
-  }
+    "default": "nirex-tech-dev",
+    "dev": "nirex-tech-dev"
+  },
+  "targets": {},
+  "etags": {}
 }
